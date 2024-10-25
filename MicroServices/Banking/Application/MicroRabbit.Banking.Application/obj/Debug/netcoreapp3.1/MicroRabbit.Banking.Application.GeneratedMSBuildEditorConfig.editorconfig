@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = MicroRabbit.Banking.Application
+build_property.ProjectDir = D:\Work insyres\New folder\MicroRabbit-master\src\Microservices\Banking\Application\MicroRabbit.Banking.Application\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

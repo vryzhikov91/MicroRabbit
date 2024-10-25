@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3zBDcntT0wLCuaNA/1Sjn5l8gkrb5rlI70k66985xCM4LtV3ETxPdTcHYRfgG6OPlUtyoWw+zjjGeEGN95VgLg==",
+  "success": true,
+  "projectFilePath": "D:\\Work insyres\\New folder\\MicroRabbit-master\\src\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vladi\\.nuget\\packages\\fluentvalidation\\10.3.0\\fluentvalidation.10.3.0.nupkg.sha512",
+    "C:\\Users\\vladi\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
